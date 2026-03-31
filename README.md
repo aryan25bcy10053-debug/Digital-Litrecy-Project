@@ -22,7 +22,7 @@ Module 3: Technical Problem Solving & Collaboration
 Focus: Algorithmic logic and data automation.
 Outcome: Completed HackerRank challenges and designed a cloud-integrated Google Form/Sheet survey for real-time data analysis.
 Folder: Task 3
-Google Quiz Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdTzSQZNVRYG21hALVhiUjlY8y4wVBSpx-1mErKiL1E-aUaPw/viewform?usp=dialog
+Google Quiz Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdTzZNVRYG21hALVhiUjlY8y4wVBSpx-1mErKiL1E-aUaPw/viewform?usp=dialog
 Module 4: Professional Communication & Etiquette
 Focus: Industry-standard correspondence.
 Outcome: Mastered formal email protocols for academic and corporate outreach (e.g., Google STEP Internship inquiry) and developed a 10-point Social Media Code of Conduct.
